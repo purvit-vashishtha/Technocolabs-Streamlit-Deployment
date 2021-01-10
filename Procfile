@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run DCC.py
+web: sh setup.sh && streamlit run app1.py
